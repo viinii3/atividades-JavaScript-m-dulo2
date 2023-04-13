@@ -9,7 +9,7 @@ function escrevaMeuNome (nome) {
 escrevaMeuNome(nome);
 
 
-//Função que ve se eu sou menos de idade:
+//Função que ve se eu sou menor de idade:
 
 const idade = 17;
 
